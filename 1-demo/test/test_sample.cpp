@@ -5,7 +5,7 @@
 
 TEST(AdditionTest,HandlesPositiveAddNumbers){
     EXPECT_EQ(add(2,3),5); // It only reports the failure but continue the execition
-    //ASEERT_EQ(add(2,3),5); // It stops the current execution when it is failure
+    // ASEERT_EQ(add(2,3),5); // It stops the current execution when it is failure
 
 //     if (add(2,3)!=5){
 //         FAIL()<< "addition expected result is wrong";
