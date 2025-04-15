@@ -1,0 +1,31 @@
+Start testing: Apr 15 16:10 IST
+----------------------------------------------------------
+1/1 Testing: UserServiceMockTest
+1/1 Test: UserServiceMockTest
+Command: "/Users/jiten/workspace/training/cpp-testing/gtest-examples/8-gtest-gmock-example/build/tests/service_test"
+Directory: /Users/jiten/workspace/training/cpp-testing/gtest-examples/8-gtest-gmock-example/build/tests
+"UserServiceMockTest" start time: Apr 15 16:10 IST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from UserServiceTest
+[ RUN      ] UserServiceTest.AddUserSuccess
+[       OK ] UserServiceTest.AddUserSuccess (0 ms)
+[ RUN      ] UserServiceTest.FindUserReturnsUser
+[       OK ] UserServiceTest.FindUserReturnsUser (0 ms)
+[----------] 2 tests from UserServiceTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"UserServiceMockTest" end time: Apr 15 16:10 IST
+"UserServiceMockTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 15 16:10 IST

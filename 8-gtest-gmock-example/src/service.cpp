@@ -2,9 +2,7 @@
 
 class UserService{
     public:
-    
     explicit UserService(IDatabase& db): database(db){}
-
 
     bool addUser(const User& user){
         return database.createUser(user);
