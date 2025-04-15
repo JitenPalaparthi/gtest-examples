@@ -24,14 +24,14 @@ TEST(ArrayOperationsTest,FindMax_EmptyVector){
 
 TEST(ArrayOperationsTest,SwapValues_Int){
     int a=10,b=20;
-    swap_values(a,b);
+    swap_values(a,b); // swap_values_int(int a, int b)
     EXPECT_EQ(a,20);
     EXPECT_EQ(b,10);
 }
 
 TEST(ArrayOperationsTest,SwapValues_Double){
     double a=3.14,b=6.28;
-    swap_values(a,b);
+    swap_values(a,b); // swap_values_double(double a , double b)
     EXPECT_EQ(a,6.28);
     EXPECT_EQ(b,3.14);
 }
