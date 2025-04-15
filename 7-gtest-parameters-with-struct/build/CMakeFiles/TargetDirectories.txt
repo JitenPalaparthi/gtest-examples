@@ -1,0 +1,8 @@
+/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/CMakeFiles/math_utils.dir
+/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/CMakeFiles/test.dir
+/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/CMakeFiles/edit_cache.dir
+/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/CMakeFiles/rebuild_cache.dir
+/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/tests/CMakeFiles/math_utils_test.dir
+/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/tests/CMakeFiles/test.dir
+/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/tests/CMakeFiles/edit_cache.dir
+/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/tests/CMakeFiles/rebuild_cache.dir

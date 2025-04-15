@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/math_utils_test.dir/math_utils_test.cpp.o -o math_utils_test  ../libmath_utils.a /opt/homebrew/lib/libgtest_main.a /opt/homebrew/lib/libgtest.a

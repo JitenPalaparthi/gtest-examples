@@ -1,0 +1,35 @@
+Start testing: Apr 15 14:12 IST
+----------------------------------------------------------
+1/1 Testing: MathUtilsParamTest
+1/1 Test: MathUtilsParamTest
+Command: "/Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/tests/math_utils_test"
+Directory: /Users/jiten/workspace/training/cpp-testing/gtest-examples/7-gtest-parameters-with-struct/build/tests
+"MathUtilsParamTest" start time: Apr 15 14:12 IST
+Output:
+----------------------------------------------------------
+Running main() from /tmp/googletest-20250207-4735-e28tfc/googletest-1.16.0/googletest/src/gtest_main.cc
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from IsEvenTests/IsEvenParamTest
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/test_1
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/test_1 (0 ms)
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/test_2
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/test_2 (0 ms)
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/test_3
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/test_3 (0 ms)
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/test_4
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/test_4 (0 ms)
+[----------] 4 tests from IsEvenTests/IsEvenParamTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.45 sec
+----------------------------------------------------------
+Test Passed.
+"MathUtilsParamTest" end time: Apr 15 14:12 IST
+"MathUtilsParamTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 15 14:12 IST

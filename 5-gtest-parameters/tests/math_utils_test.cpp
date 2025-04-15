@@ -34,6 +34,3 @@ INSTANTIATE_TEST_SUITE_P(IsEvenTests,IsEvenParamTest,::testing::Values(
     std::make_pair(-10,true),
     std::make_pair(-9,false)
 ),TestNameGenerator);
-
-
-
