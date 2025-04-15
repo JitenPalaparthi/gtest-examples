@@ -1,0 +1,39 @@
+Start testing: Apr 15 12:29 IST
+----------------------------------------------------------
+1/1 Testing: MathUtilsParamTest
+1/1 Test: MathUtilsParamTest
+Command: "/Users/jiten/workspace/training/cpp-testing/gtest-examples/5-gtest-parameters/build/tests/math_utils_test"
+Directory: /Users/jiten/workspace/training/cpp-testing/gtest-examples/5-gtest-parameters/build/tests
+"MathUtilsParamTest" start time: Apr 15 12:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /tmp/googletest-20250207-4735-e28tfc/googletest-1.16.0/googletest/src/gtest_main.cc
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from IsEvenTests/IsEvenParamTest
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Number_2_IsEven
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Number_2_IsEven (0 ms)
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Number_3_IsOdd
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Number_3_IsOdd (0 ms)
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Number_0_IsEven
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Number_0_IsEven (0 ms)
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Neg1_IsOdd
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Neg1_IsOdd (0 ms)
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Neg10_IsEven
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Neg10_IsEven (0 ms)
+[ RUN      ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Neg9_IsOdd
+[       OK ] IsEvenTests/IsEvenParamTest.CheckIsEvenWithMultipleValues/Neg9_IsOdd (0 ms)
+[----------] 6 tests from IsEvenTests/IsEvenParamTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"MathUtilsParamTest" end time: Apr 15 12:29 IST
+"MathUtilsParamTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 15 12:29 IST
